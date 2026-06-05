@@ -13,13 +13,10 @@
 ## ⚡ Live Public Sandbox Deployed Simulator
 Since native cross-platform mobile apps (React Native Vision Camera + JSI worklets) require physical compiling and device deployment, we have built a **Premium Browser-Based Web Simulator & Telemetry Playground** to demonstrate the exact biometric flow live in your browser using your webcam!
 
-🌐 **[Launch Live Secure Sandbox Preview](https://four-cloths-shake.loca.lt)**
-
-🔑 **Localtunnel Bypass IP (Password)**: **`104.28.157.92`**
+🌐 **[Launch Live Secure Sandbox Preview](https://nhai-biometrics.vercel.app)**
 
 > [!IMPORTANT]
-> *Browsers strictly block webcam streams on unencrypted private IP networks. This secure HTTPS link allows you to test the facial tracker on your iPhone, Android phone, or any remote device.*
-> *If prompted by the localtunnel warning landing page, copy and paste the IP **`104.28.157.92`** into the input field and click "Submit". Click **"Allow camera permissions"** when prompted.*
+> *Browsers strictly block webcam streams on unencrypted private IP networks. This secure HTTPS link allows you to test the facial tracker on your iPhone, Android phone, or any remote device. Click **"Allow camera permissions"** when prompted.*
 
 ### 📸 Fully-Functional Webcam Liveness Demo Flow:
 1.  **70-Point Landmark Overlay**: Fits a glowing neon facial mesh directly over your webcam stream in real time.
