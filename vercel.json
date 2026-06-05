@@ -1,0 +1,5 @@
+{
+  "buildCommand": "cd web-preview && npm install && npm run build",
+  "outputDirectory": "web-preview/dist",
+  "cleanUrls": true
+}
